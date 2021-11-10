@@ -1,5 +1,5 @@
-# EdMaster_Video_Stream
-EdMaster_Video_Stream
+#Video_Stream
+Video_Stream
 
 
 Run Application 
